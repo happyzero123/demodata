@@ -2,15 +2,19 @@
 ## 一.   HTML标签
 ### 1. HTML文档结构
 ```js
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-//Html文档头部，重点是针对搜索引擎，浏览器看不到此处的内容
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  //Html文档头部，重点是针对搜索引擎，浏览器看不到此处的内容
 </head>
 <body>
-//Html文档的主体部分，浏览器中能看到的内容都在此处
+  //Html文档的主体部分，浏览器中能看到的内容都在此处
 </body>
 </html>
-
 ```
 ### 2. 块元素（block）
 特点：有大小，未指定宽度则宽度自适应，能产生布局，独立成行
