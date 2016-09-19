@@ -88,7 +88,7 @@ git checkout -b gh-pages
 git branch
 ```
 
-### 14.删除分支上多余文件， 只留下`index.html`,`README.md`,`404.html`,`.gitignore`,`build`
+### 14.删除分支上多余文件， 只留下 `index.html` , `README.md` , `404.html` , `.gitignore` , `build`
 
 ```js
 rm -r src package.json webpack.config.js .babelrc
