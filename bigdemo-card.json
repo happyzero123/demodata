@@ -1,9 +1,6 @@
 [
-  {"index":1,"title":"基础知识HTML + CSS","desc":"1. HTML文档结构，2. 块元素（block）
-特点：有大小，未指定宽度则宽度自适应，能产生布局，独...","url":"a"},
-  {"index":2,"title":"建立，上传，删除分支步骤","desc":"1.从别人的网站上 clone 到本地
-git clone git@github.com:newming/06-demo.git 16-demo...","url":"b"},
-  {"index":3,"title":"课时小结","desc":"啊啊啊啊啊啊啊啊啊啊啊","url":"c"},
-  {"index":4,"title":"material-ui应用","desc":"import baseTheme from 'material-ui/styles/baseThemes/darkBaseTheme';
-import CircularProgress from 'material-ui/CircularProgress';","url":"d"}
+  {"index":1,"title":"基础知识HTML + CSS","desc":"1. HTML文档结构，2. 块元素（block）特点：有大小，未指定宽度则宽度自适应，能产生布局，独...","url":"a"},
+  {"index":2,"title":"建立，上传，删除分支步骤","desc":"1.从别人的网站上 clone 到本地git clone git@github.com:newming/06-demo.git 16-demo...","url":"b"},
+  {"index":3,"title":"课时小结","desc":"深度系统1.安装git curl atom 包，sudo apt-get install git curl atom2.查看包装在哪里了，which git3....","url":"c"},
+  {"index":4,"title":"material-ui应用","desc":"1.安装material-ui包，npm i --save material-ui,引入：import baseTheme from 'material-ui/styl...","url":"d"}
 ]
